@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="agineXplay">
+    <file>Resources/stop.jpg</file>
+    <file>Resources/open.jpg</file>
+    <file>Resources/play.jpg</file>
+  </qresource>
+</RCC>
